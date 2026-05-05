@@ -12,9 +12,7 @@ Bu proje, Yusuf Ataş'ın profesyonel özgeçmişini, yetkinliklerini, projeleri
 
 ## 📸 Arayüz Önizlemesi
 
-> **[buraya görsel gelecek]**
-*(Öneri: Uygulamanın tam ekran bir ekran görüntüsünü veya uygulamanın çalıştığını gösteren kısa bir GIF ekleyin.)*
-
+> **[<img width="1716" height="800" alt="image" src="https://github.com/user-attachments/assets/a13b5868-d062-4403-a27d-e01b5666b9d3" />]**
 ---
 
 ## ✨ Öne Çıkan Özellikler
