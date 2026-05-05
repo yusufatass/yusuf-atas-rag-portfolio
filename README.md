@@ -7,6 +7,7 @@
 ![LLMs](https://img.shields.io/badge/Multi--LLM-OpenAI%20%7C%20Gemini%20%7C%20Groq-success)
 
 Bu proje, Yusuf Ataş'ın profesyonel özgeçmişini, yetkinliklerini, projelerini ve kariyer vizyonunu etkileşimli bir şekilde sunan **RAG (Retrieval-Augmented Generation)** tabanlı yapay zeka destekli bir kariyer asistanıdır. Geleneksel ve statik CV'lerin ötesine geçerek, işe alım uzmanları ve yöneticiler için dinamik, akıllı ve doğal dilde iletişim kurabilen bir profil sistemi sunar.
+| 🚀 [Canlı Demo (Streamlit)](https://yusuf-atas-rag-chatbot.streamlit.app/) |
 
 ---
 
@@ -48,10 +49,3 @@ Sistem iki şekilde kullanılabilir:
 
 ---
 
-## 📬 İletişim
-
-Yusuf Ataş ile teknolojik iş birlikleri ve vizyoner projeler için iletişime geçebilirsiniz:
-
-- **E-posta:** [yusufatas2002@gmail.com](mailto:yusufatas2002@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yusuf-atas34](https://www.linkedin.com/in/yusuf-atas34)
-- **GitHub:** [github.com/yusufatass](https://github.com/yusufatass)
