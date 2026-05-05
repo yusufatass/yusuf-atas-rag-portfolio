@@ -8,7 +8,7 @@
 
 Bu proje, Yusuf Ataş'ın profesyonel özgeçmişini, yetkinliklerini, projelerini ve kariyer vizyonunu etkileşimli bir şekilde sunan **RAG (Retrieval-Augmented Generation)** tabanlı yapay zeka destekli bir kariyer asistanıdır. Geleneksel ve statik CV'lerin ötesine geçerek, işe alım uzmanları ve yöneticiler için dinamik, akıllı ve doğal dilde iletişim kurabilen bir profil sistemi sunar.
 
-🚀 [Şimdi Deneyin! (Streamlit)](https://yusuf-atas-rag-chatbot.streamlit.app/) 
+🚀 [Şimdi Deneyin! (Streamlit)](https://yusuf-atas-rag-portfolio.streamlit.app/) 
 
 ---
 
