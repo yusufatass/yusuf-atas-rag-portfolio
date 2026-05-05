@@ -12,7 +12,7 @@ Bu proje, Yusuf Ataş'ın profesyonel özgeçmişini, yetkinliklerini, projeleri
 
 ## 📸 Arayüz Önizlemesi
 
-> **[<img width="1716" height="800" alt="image" src="https://github.com/user-attachments/assets/a13b5868-d062-4403-a27d-e01b5666b9d3" />]**
+> **<img width="1716" height="800" alt="image" src="https://github.com/user-attachments/assets/a13b5868-d062-4403-a27d-e01b5666b9d3" />**
 ---
 
 ## ✨ Öne Çıkan Özellikler
@@ -28,8 +28,6 @@ Bu proje, Yusuf Ataş'ın profesyonel özgeçmişini, yetkinliklerini, projeleri
 ---
 
 ## 🏗️ Sistem Mimarisi
-
-> **[<img width="1716" height="800" alt="image" src="https://github.com/user-attachments/assets/a8c88ecc-3ad8-4f24-9fd5-e7462f77989f" />]**
 
 ### Kullanılan Teknolojiler
 - **Frontend & UI:** Streamlit (Özelleştirilmiş CSS ile)
