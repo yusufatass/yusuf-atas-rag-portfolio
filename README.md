@@ -31,8 +31,7 @@ Bu proje, Yusuf Ataş'ın profesyonel özgeçmişini, yetkinliklerini, projeleri
 
 ## 🏗️ Sistem Mimarisi
 
-> **[buraya görsel gelecek]**
-*(Öneri: RAG sisteminizin nasıl çalıştığını gösteren, kullanıcıdan giren sorunun vektör aranmasından LLM'e gidişini anlatan basit bir akış şeması (flowchart) ekleyin.)*
+> **[<img width="1716" height="800" alt="image" src="https://github.com/user-attachments/assets/a8c88ecc-3ad8-4f24-9fd5-e7462f77989f" />]**
 
 ### Kullanılan Teknolojiler
 - **Frontend & UI:** Streamlit (Özelleştirilmiş CSS ile)
@@ -45,8 +44,7 @@ Bu proje, Yusuf Ataş'ın profesyonel özgeçmişini, yetkinliklerini, projeleri
 
 ## 💻 Kullanım
 
-> **[buraya görsel gelecek]**
-*(Öneri: Sol menü navigasyonunun ve durum kartlarının yakın çekim bir görselini ekleyin.)*
+> **[<img width="1683" height="937" alt="image" src="https://github.com/user-attachments/assets/92ab3fcf-2f4a-47cc-ba32-97ad774ef582" />]**
 
 Sistem iki şekilde kullanılabilir:
 1. **Sol Navigasyon Menüsü:** Hızlı erişim butonları ile Yusuf'un projelerini, deneyimlerini veya eğitim geçmişini listeleyip numara ile detay seçebilirsiniz.
